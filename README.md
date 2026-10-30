@@ -1,11 +1,6 @@
 ﻿# Silk Switch
 
-A Fabric mod for Minecraft 26.3. Press **G** to switch the tool in your hand between **Fortune** and **Silk Touch**. No second pickaxe, no anvil.
-
-<p>
-  <img src="modrinth/gallery/helix-silk-touch.jpg" width="49%" alt="Switching to Silk Touch">
-  <img src="modrinth/gallery/helix-fortune.jpg" width="49%" alt="Switching to Fortune">
-</p>
+A Fabric mod for Minecraft. Press **G** to switch the tool in your hand between **Fortune** and **Silk Touch**. No second pickaxe, no anvil.
 
 ## How it works
 
