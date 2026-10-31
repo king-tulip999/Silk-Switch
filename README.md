@@ -56,20 +56,6 @@ Download the jar for your Minecraft version from [Releases](../../releases) and 
 
 The remembered Fortune level is stored as plain vanilla item data. If you remove the mod, your tools keep whichever enchantment they had at the time and load normally.
 
-## Building
-
-Requires nothing beyond the repo: Gradle downloads the Java version it needs automatically.
-
-```bash
-gradlew build
-```
-
-The jar (`silkswitch-<version>.jar`) is written to the project folder. To test in a dev client:
-
-```bash
-gradlew runClient
-```
-
 ## License
 
 [MIT](LICENSE)
