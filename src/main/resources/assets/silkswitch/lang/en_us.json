@@ -1,0 +1,16 @@
+{
+	"key.category.silkswitch.main": "Silk Switch",
+	"key.silkswitch.swap": "Swap Fortune / Silk Touch",
+	"key.silkswitch.settings": "Open Silk Switch settings",
+	"message.silkswitch.no_enchant": "Hold a tool with Fortune or Silk Touch",
+	"message.silkswitch.never_had": "This tool has never had %s",
+	"message.silkswitch.disabled": "%s is turned off in Silk Switch settings",
+	"message.silkswitch.not_on_server": "Silk Switch isn't installed on this server",
+	"options.silkswitch.title": "Silk Switch Settings",
+	"option.silkswitch.silk_touch": "Fortune ⇄ Silk Touch",
+	"option.silkswitch.silk_touch.tooltip": "Press the swap key to switch the tool in your hand between Fortune and Silk Touch.",
+	"option.silkswitch.free_fortune": "Fortune on Silk-only tools",
+	"option.silkswitch.free_fortune.tooltip": "Lets tools that have only ever had Silk Touch switch to Fortune.\n\nWhen off, a tool only switches back to the Fortune level it had before.",
+	"option.silkswitch.free_fortune_level": "Fortune Level: %s",
+	"option.silkswitch.free_fortune_level.tooltip": "The Fortune level a Silk-only tool gets the first time it switches."
+}

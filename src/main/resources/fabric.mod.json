@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "silkswitch",
+	"version": "${version}",
+	"name": "Silk Switch",
+	"description": "Press a key to swap the held tool between Fortune and Silk Touch.",
+	"authors": ["Jordan"],
+	"license": "MIT",
+	"icon": "assets/silkswitch/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.jordan.silkswitch.SilkSwitch"],
+		"client": ["com.jordan.silkswitch.client.SilkSwitchClient"],
+		"modmenu": ["com.jordan.silkswitch.client.SilkSwitchModMenu"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
